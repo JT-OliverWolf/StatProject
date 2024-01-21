@@ -1,10 +1,12 @@
 # StatProject
-This project is part of 01204314 Statistics for Computer Engineering Applications.
+This project is part of 01204314 Statistics for Computer Engineering Applications at Kasetsart University.
 
-In this project, I will try to use graphs and statistical knowledge to find insights in the data.
+The instruction of the project, and the format of the report are given by the instructor.
 
-I use python(numpy,pandas,seaborn,matplotlib) to analyze and plot all data.
+In order to answer the question from the report, the instructor required us to show the graph and try finding the insight from the data.
+
+In this project the coding language and the library used are Python(numpy,pandas,seaborn,matplotlib) to analyze and plot all data.
 
 All results are in the report file.
 
-All the data are from Dr. Supaporn Erjongmanee So I can't publish the data.
+All the data are from the instructor Asst. Prof. Dr. Supaporn Erjongmanee So I can't publish the data.
