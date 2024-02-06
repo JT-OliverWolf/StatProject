@@ -1,5 +1,5 @@
 # StatProject
-This project is part of 01204314 Statistics for Computer Engineering Applications at Kasetsart University.
+This project is part of Statistics for Computer Engineering Applications at Kasetsart University.
 
 The instruction of the project, and the format of the report are given by the instructor.
 
